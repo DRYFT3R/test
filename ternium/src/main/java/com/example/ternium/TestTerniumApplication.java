@@ -38,7 +38,7 @@ public class TestTerniumApplication {
 
     public static void executarGps() {
         String response = "[{\"latitud\":null,\"longitud\":null,\"ultimoReporte\":null,\"placa\":\"278DJ7\"},{\"latitud\":null,\"longitud\":null,\"ultimoReporte\":null,\"placa\":\"278DJ7\"},{\"latitud\":32.55793,\"longitud\":-115.300697,\"ultimoReporte\":\"2022-04-05 06:23:47.0\",\"placa\":\"278DJ7\"}]";
-
+        ///ahoras klasjdlkjsalkajsdñ fkjasñdklfj ñaskldjf
         GpsPatenteOutVo out = new GpsPatenteOutVo();
         GpsPatenteOutVo.GpsLogitudVo[] out2 = null;
         ObjectMapper mapper = new ObjectMapper();
